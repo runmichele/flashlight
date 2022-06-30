@@ -2,7 +2,9 @@
 ![165650549-07daaabe-15fa-432e-9146-71bae90e43b0](https://user-images.githubusercontent.com/100384795/176786088-8a971e74-1ec2-4908-a687-754688ebf861.png)
 
 * CONTEÚDO
+
 DIO-Flashlight
+
 Construindo um app usando o sensor de movimento com React Native
 - Libs react-native-shake e react-native-torch
 - Icons: https://drive.google.com/drive/folders/1aDTyA09EFjFvqmXqkDKLoMhFx65QQExQ
